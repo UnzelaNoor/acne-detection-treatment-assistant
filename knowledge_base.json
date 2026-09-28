@@ -1,0 +1,38 @@
+[
+  {
+    "problem": "blackhead",
+    "solution": "Use a gentle exfoliant 2-3 times a week and a salicylic acid cleanser daily. Avoid squeezing or picking to prevent scarring."
+  },
+  {
+    "problem": "whitehead",
+    "solution": "Apply benzoyl peroxide or adapalene spot treatment. Keep the area clean and avoid touching your face frequently."
+  },
+  {
+    "problem": "pimple",
+    "solution": "Use tea tree oil or a targeted benzoyl peroxide treatment. Apply only on the affected area and wash hands before application."
+  },
+  {
+    "problem": "cystic acne",
+    "solution": "Consult a dermatologist for possible oral medications or prescription topical treatments. Avoid popping cysts, as this can lead to scarring and infection."
+  },
+  {
+    "problem": "oily skin",
+    "solution": "Use an oil-free, non-comedogenic moisturizer and cleanser. Blot excess oil with paper towels during the day and avoid harsh scrubbing."
+  },
+  {
+    "problem": "dry skin",
+    "solution": "Use a gentle cleanser and hydrating moisturizer. Avoid over-washing your face as it can worsen dryness."
+  },
+  {
+    "problem": "general acne care",
+    "solution": "Cleanse your face twice a day, avoid touching your face, maintain a healthy diet, and use non-comedogenic skincare products. Consistency is key for long-term improvement."
+  },
+  {
+    "problem": "diet",
+    "solution": "Limit sugary and oily foods. Increase intake of vegetables, fruits, and water to support healthy skin."
+  },
+  {
+    "problem": "sun protection",
+    "solution": "Always use a broad-spectrum sunscreen to protect your skin from UV damage, which can worsen acne scars."
+  }
+]
