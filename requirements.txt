@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+numpy
+scikit-learn
+Pillow
+transformers   # optional
+# torch (skip for Python 3.13)
