@@ -24,7 +24,7 @@ class Detection:
 # =======================
 # Load YOLO Model
 # =======================
-def load_yolo_model(weights_path="weights/best.pt"):
+def load_yolo_model(weights_path="best.pt"):
     try:
         model = YOLO(weights_path)
         return model
@@ -75,7 +75,7 @@ def draw_detections(pil_img: Image.Image, detections: List[Detection]) -> Image.
 # Load Knowledge Base
 # ======================= 
 
-def load_knowledge_base(json_path="dataset/knowledge_base.json"):
+def load_knowledge_base(json_path="knowledge_base.json"):
     try:
         with open(json_path, "r") as f:
             kb = json.load(f)
